@@ -17,7 +17,7 @@ https://main.24playerhd.com/newplaylist/bc1459bd8e518c0abc553749/bc1459bd8e518c0
 # =========================
 
 #EXTINF:-1 tvg-id="Reborn Rookie.S01E01" tvg-name="Reborn Rookie S01E01" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E01 - Putting A Price Tag On A Dream
-https://main.24playerhd.com/newplaylist/0d7da76dff9dcdb560a0d9f5/0d7da76dff9dcdb560a0d9f5.m3u8
+https://main.24playerhd.com/newplaylist/f79ba2e32f29fbe1d686d76d/f79ba2e32f29fbe1d686d76d.m3u8
 
 #EXTINF:-1 tvg-id="Reborn Rookie.S01E02" tvg-name="Reborn Rookie S01E02" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E02 - The Reborn Chairman
 https://main.24playerhd.com/newplaylist/bc762db62f64d2ce67e78318/bc762db62f64d2ce67e78318.m3u8
