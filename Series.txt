@@ -2,11 +2,54 @@
 #EXTM3U
 
 # =========================
-# A Shop For Killers2
+# A Shop For Killers2 : ร้านลับนักฆ่า ซีซัน 2
 # =========================
 
-#EXTINF:-1 tvg-id="A Shop For Killers2.S02E01" tvg-name="A Shop For Killers2 S02E01" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E01 - Jinman, That Same Day
+#EXTINF:-1 tvg-id="A Shop For Killers2.S02E01" tvg-name="A Shop For Killers2 S02E01" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2 : ร้านลับนักฆ่า ซีซัน 2",S02E01 - Jinman, That Same Day
 https://main.24playerhd.com/newplaylist/5ba09631c6f8ad9294756a2e/5ba09631c6f8ad9294756a2e.m3u8
 
-#EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E02 - Recluse
+#EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2 : ร้านลับนักฆ่า ซีซัน 2",S02E02 - Recluse
 https://main.24playerhd.com/newplaylist/bc1459bd8e518c0abc553749/bc1459bd8e518c0abc553749.m3u8
+
+
+# =========================
+# Reborn Rookie : มือใหม่หัดแค้น
+# =========================
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E01" tvg-name="Reborn Rookie S01E01" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E01 - Putting A Price Tag On A Dream
+https://main.24playerhd.com/newplaylist/0d7da76dff9dcdb560a0d9f5/0d7da76dff9dcdb560a0d9f5.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E02" tvg-name="Reborn Rookie S01E02" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E02 - The Reborn Chairman
+https://main.24playerhd.com/newplaylist/bc762db62f64d2ce67e78318/bc762db62f64d2ce67e78318.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E03" tvg-name="Reborn Rookie S01E03" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E03 - Proving Your Competency
+https://main.24playerhd.com/newplaylist/bc762db62f64d2ce67e78318/bc762db62f64d2ce67e78318.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E04" tvg-name="Reborn Rookie S01E04" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E04 - A Divide And Conquer Strategy
+https://main.24playerhd.com/newplaylist/3032996dd48c45a20929f1c9/3032996dd48c45a20929f1c9.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E05" tvg-name="Reborn Rookie S01E05" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E05 - A Self-destructive Battle
+https://main.24playerhd.com/newplaylist/a480a7d5bc962048bebc5fd0/a480a7d5bc962048bebc5fd0.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E06" tvg-name="Reborn Rookie S01E06" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E06 - The Claws Are Out at Last
+https://main.24playerhd.com/newplaylist/903c0331c019542408cd4c36/903c0331c019542408cd4c36.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E07" tvg-name="Reborn Rookie S01E07" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E07 - A Dangerous Alliance
+https://main.24playerhd.com/newplaylist/08152f9f5cc564a8b770c5db/08152f9f5cc564a8b770c5db.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E08" tvg-name="Reborn Rookie S01E08" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E08 - The Traitor's Gambit
+https://main.24playerhd.com/newplaylist/41138ae53689cd6ba88b8691/41138ae53689cd6ba88b8691.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E09" tvg-name="Reborn Rookie S01E09" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E09 - Who Side Are You On?
+https://main.24playerhd.com/newplaylist/51913a779d0c85a102831645/51913a779d0c85a102831645.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E10" tvg-name="Reborn Rookie S01E10" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E10 - The Corporate Warfare
+https://main.24playerhd.com/newplaylist/6357bfe698edbf5c40e68cfe/6357bfe698edbf5c40e68cfe.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E11" tvg-name="Reborn Rookie S01E11" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E11 - The Final Punishment
+https://main.24playerhd.com/newplaylist/b7420b8f9f68ec425860611f/b7420b8f9f68ec425860611f.m3u8
+
+#EXTINF:-1 tvg-id="Reborn Rookie.S01E12" tvg-name="Reborn Rookie S01E12" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/05/Reborn-Rookie-2026-240x300.jpg" group-title="📺 Reborn Rookie : มือใหม่หัดแค้น",S01E12 - Proving Your Competency
+https://main.24playerhd.com/newplaylist/ae93d7ed71f11189541bc67c/ae93d7ed71f11189541bc67c.m3u8
+
+
