@@ -11,7 +11,6 @@ https://main.24playerhd.com/newplaylist/5ba09631c6f8ad9294756a2e/5ba09631c6f8ad9
 #EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg" group-title="📺 A Shop For Killers2 : ร้านลับนักฆ่า ซีซัน 2",S02E02 - Recluse
 https://main.24playerhd.com/newplaylist/bc1459bd8e518c0abc553749/bc1459bd8e518c0abc553749.m3u8
 
-
 # =========================
 # Reborn Rookie : มือใหม่หัดแค้น
 # =========================
