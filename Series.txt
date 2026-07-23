@@ -53,3 +53,44 @@ https://main.24playerhd.com/newplaylist/b7420b8f9f68ec425860611f/b7420b8f9f68ec4
 https://main.24playerhd.com/newplaylist/ae93d7ed71f11189541bc67c/ae93d7ed71f11189541bc67c.m3u8
 
 
+# =========================
+# High Potential : Season 1 
+# =========================
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E01" tvg-name="High Potential : Season 1 S01E01" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E01 - Pilot
+https://main.24playerhd.com/newplaylist/4c6ef648292b25ed7ce4f62a/4c6ef648292b25ed7ce4f62a.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E02" tvg-name="High Potential : Season 1 S01E02" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E02 - Dancers in the Dark
+https://main.24playerhd.com/newplaylist/ff614a2b77f3052af5e80f13/ff614a2b77f3052af5e80f13.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E03" tvg-name="High Potential : Season 1 S01E03" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-https://main.24playerhd.com/newplaylist/e96f2c8439bc1ad59901d74f/e96f2c8439bc1ad59901d74f.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E04" tvg-name="High Potential : Season 1 S01E04" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E04 - ASurvival Mode
+https://main.24playerhd.com/newplaylist/804439278331d4ce3b01b498/804439278331d4ce3b01b498.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E05" tvg-name="High Potential : Season 1 S01E05" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E05 - Croaked
+https://main.24playerhd.com/newplaylist/c2e78f68311b1630c81e9159/c2e78f68311b1630c81e9159.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E06" tvg-name="High Potential : Season 1 S01E06" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E06 - Hangover
+https://main.24playerhd.com/newplaylist/740aa0427875f72f4302d298/740aa0427875f72f4302d298.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E07" tvg-name="High Potential : Season 1 S01E07" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E07 - One of Us
+https://main.24playerhd.com/newplaylist/b0719bdf2aa544fa46dd5164/b0719bdf2aa544fa46dd5164.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E08" tvg-name="High Potential : Season 1 S01E08" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E08 - The Big One
+https://main.24playerhd.com/newplaylist/e9a974ec554e941b8a2f3674/e9a974ec554e941b8a2f3674.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E09" tvg-name="High Potential : Season 1 S01E09" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E09 - Murder by the Book
+https://main.24playerhd.com/newplaylist/1fa067c9e97f6f92d0f35cbc/1fa067c9e97f6f92d0f35cbc.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E10" tvg-name="High Potential : Season 1 S01E10" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E10 - The Rams
+https://main.24playerhd.com/newplaylist/f13ee87d2a8e410fea4e342c/f13ee87d2a8e410fea4e342c.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E11" tvg-name="High Potential : Season 1 S01E11" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E11 - Obsessed
+https://main.24playerhd.com/newplaylist/d2e53e1ffda5f36c919fa7c8/d2e53e1ffda5f36c919fa7c8.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E12" tvg-name="High Potential : Season 1 S01E12" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E12 - Chute and Ladder
+https://main.24playerhd.com/newplaylist/80701d996c5aff41b8cb3f93/80701d996c5aff41b8cb3f93.m3u8
+
+#EXTINF:-1 tvg-id="High Potential : Season 1.S01E13" tvg-name="High Potential : Season 1 S01E13" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E13 - Let's Play
+https://main.24playerhd.com/newplaylist/c35e94cfc39820828419402e/c35e94cfc39820828419402e.m3u8
