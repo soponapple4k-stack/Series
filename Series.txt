@@ -175,7 +175,7 @@ https://main.24playerhd.com/newplaylist/424c09ae4ae0d6bfa2383d28/424c09ae4ae0d6b
 #EXTINF:-1 tvg-id="Reverse.S01E04" tvg-name="Reverse S01E04" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E04 - Caught
 https://main.24playerhd.com/newplaylist/b7d5eef20f6f06da2b09c069/b7d5eef20f6f06da2b09c069.m3u8
 
-#EXTINF:-1 tvg-id="Reverse.S01E05" tvg-name="Reverse S01E05" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpgg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E05 - Kidnapping
+#EXTINF:-1 tvg-id="Reverse.S01E05" tvg-name="Reverse S01E05" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E05 - Kidnapping
 https://main.24playerhd.com/newplaylist/7f7aa804a492caee2997a7e8/7f7aa804a492caee2997a7e8.m3u8
 
 #EXTINF:-1 tvg-id="Reverse.S01E06" tvg-name="Reverse S01E06" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E06 - Descent into Darkness
