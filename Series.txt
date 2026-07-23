@@ -1,0 +1,150 @@
+# =============================================
+# 🎬 หมวดหมู่: หนังชนโรง (Movies)
+# =============================================
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/The-Furious-2026.webp",🟣 The Furious (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/a073d04b0386ce5dd80b1a4c8d85a96c/master.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/03/Toy-Story-5-2026.webp",🟣 Toy Story 5 (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/d06562f75526cd1b5fb0e58d678de423/master.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Moana-2026.webp",🟣 MOANA (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/6d28777bac2dce901d6375883dc117fe/master.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Backrooms-2026.webp",🟣 Backrooms (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://master.steamhls88.com/hlsr2/ec77ff2b157382dd957f1f16e7e8391c/master.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Disclosure-Day-2026-e1781233304818.webp",🟣 Disclosure Day (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://master.steamhls88.com/hlsr2/f23d190bbc1ba8d696ec6f44453edb6c/master.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://9.9nung.com/wp-content/uploads/2026/06/oQcSK9kW8Eotyt2eWjgLKiYFabH-185x278.jpg",🟣 Supergirl (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/0c216502d4162a1389e112c7e45bcfc2/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/05/Colony-2026.webp",🟣 Colony (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_d684bfa5e6dad358f3720.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/05/Hokum-2026-e1780025106539.webp",🟣 Hokum (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_b03334035842a1f499720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Scary-Movie-2026.webp",🟣 Scary Movie  (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_94b1fcf22e2717a7d6720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/05/In-the-Grey-2026-e1779070810480.webp",🟣 In the Grey (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_0c016d9b43eb1d157e720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/The-Legend-Hunters-2026.webp",🟣 The Legend Hunters (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_99ecbe29f3bc81240c720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/06/Hungry-2026.webp",🟣 HUNGRY (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/210b34248d6cd7811d89fe78e0b41429/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/03/The-Drama-2026.webp",🟣 The Drama (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_4709ea9cba338360cc720.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/03/Mortal-Kombat-2-2026.webp",🟣 Mortal Kombat II (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_cf948888b55912e80e720.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/07/Evil-Dead-Burn-2026.webp",🟣 Evil Dead Burn (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/0011472c6887aa316d5a65bf26a97500/master.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://www.24hd.vip/wp-content/uploads/2026/04/The-Odyssey-2026-e1775198554592.webp",🟣 The Odyssey (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://media.vdohls.com/LR_9odfBl1-PG/video.m3u8
+
+
+
+#EXTINF:-1 group-title="🇹🇭 หนังชนโรง",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
+# =============================================
+# 🎬 หมวดหมู่: หนัง 2026 (Movies)
+# =============================================
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img1.pic.in.th/images/images8206c1f5ad3ffb36.jpg",🟣 The Punisher: One Last Kill (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_a652653703e3de6a73720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img2.pic.in.th/imagesb5a0fbd96f0dfbc4.jpg",🟣 Shelter (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_7526cc8dfdf93c0e3c720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img2.pic.in.th/imagesb11d89299484aa33.jpg",🟣 Greenland 2: Migration (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img2.pic.in.th/imagesb9cac9a27a474fd9.jpg",🟣 Return to Silent Hill (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://i.wpfc.ml/jz/z5nimb.jpg",🟣 Men of War (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://main.24playerhd.com/m3u8/c44a4d026064e53bde5d79f9/c44a4d026064e53bde5d79f9438.m3u8
+
+#EXTINF:-1 group-title="🇹🇭 หนัง 2026",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
+
+# =============================================
+# 🎬 หมวดหมู่: หนัง 2025 (Movies)
+# =============================================
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img2.pic.in.th/images74296345188fa47a.jpg",🟣 Nobody 2 (2025)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_5400d5dd194163544a720.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img1.pic.in.th/images/images17aa653199c0a6c9.jpg",🟣 Haunted Mountains: The Yellow Taboo (2025)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_6f5a424b896dcc3761720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img1.pic.in.th/images/10000596389acc2d77e30a9b66.png",🟣 The Last Cabin (2025) 
+#EXTVLCOPT:http-referrer=https://media.vdohls.com
+https://media.vdohls.com/9-t_q10yiX4zA/video.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://i.wpfc.ml/jz/z5nuco.jpg",🟣 The Housemaid (2025)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_942a916d7085164fd0720.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇭 หนัง 2025",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
+
+
+
+#EXTM3U
+
+# =========================
+# A Shop For Killers2
+# =========================
+
+#EXTINF:-1 tvg-id="A Shop For Killers2.S02E01" tvg-name="A Shop For Killers2 S02E01" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E01 - Jinman, That Same Day
+https://main.24playerhd.com/newplaylist/5ba09631c6f8ad9294756a2e/5ba09631c6f8ad9294756a2e.m3u8
+
+#EXTINF:-1 tvg-id="A Shop For Killers2.S02E02" tvg-name="A Shop For Killers2 S02E02" tvg-logo="https://goseries4k.com/wp-content/uploads/2026/07/2-1.jpg" group-title="📺 A Shop For Killers2",S02E02 - Recluse
+https://main.24playerhd.com/newplaylist/bc1459bd8e518c0abc553749/bc1459bd8e518c0abc553749.m3u8
