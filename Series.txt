@@ -54,7 +54,7 @@ https://main.24playerhd.com/newplaylist/ae93d7ed71f11189541bc67c/ae93d7ed71f1118
 
 
 # =========================
-# High Potential : Season 2
+# High Potential : Season 1
 # =========================
 
 #EXTINF:-1 tvg-id="High Potential : Season 1.S01E01" tvg-name="High Potential : Season 1 S01E01" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/01/High-Potential-2024-203x300.jpg" group-title="📺 High Potential : Season 1",S01E01 - Pilot
