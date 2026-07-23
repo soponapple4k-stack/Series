@@ -157,5 +157,33 @@ https://main.24playerhd.com/newplaylist/f24ef2a339d569f26272f18c/f24ef2a339d569f
 https://main.24playerhd.com/newplaylist/cdfe8ea44434b28d4558d4ba/cdfe8ea44434b28d4558d4ba.m3u8
 
 
-#EXTINF:-1 tvg-id="High Potential : Season 2.S02E18" tvg-name="High Potential : Season 2 S02E18" tvg-logo="https://www.seriedays.com/wp-content/uploads/2025/09/High-Potential-Season-2-2025-200x300.jpg" group-title="📺 High Potential : Season 2",S02E18 - Family Tree
-https://main.24playerhd.com/newplaylist/787620b411e7c4cb37b3c25d/787620b411e7c4cb37b3c25d.m3u8
+
+
+# =========================
+# Reverse : จิตไม่ลืมแค้น
+# =========================
+
+#EXTINF:-1 tvg-id="Reverse.S01E01" tvg-name="Reverse S01E01" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E01 - The Accident
+https://main.24playerhd.com/newplaylist/d672450a73bf45ade80672b1/d672450a73bf45ade80672b1.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E02" tvg-name="Reverse S01E02" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E02 - Distrust
+https://main.24playerhd.com/newplaylist/68e8120df6ecb7715168068a/68e8120df6ecb7715168068a.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E03" tvg-name="Reverse S01E03" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E03 - The Chase
+https://main.24playerhd.com/newplaylist/424c09ae4ae0d6bfa2383d28/424c09ae4ae0d6bfa2383d28.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E04" tvg-name="Reverse S01E04" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E04 - Caught
+https://main.24playerhd.com/newplaylist/b7d5eef20f6f06da2b09c069/b7d5eef20f6f06da2b09c069.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E05" tvg-name="Reverse S01E05" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpgg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E05 - Kidnapping
+https://main.24playerhd.com/newplaylist/7f7aa804a492caee2997a7e8/7f7aa804a492caee2997a7e8.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E06" tvg-name="Reverse S01E06" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E06 - Descent into Darkness
+https://main.24playerhd.com/newplaylist/c1aa993f75f85ca63b1d4ac9/c1aa993f75f85ca63b1d4ac9.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E07" tvg-name="Reverse S01E07" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E07 - The Hunt
+https://main.24playerhd.com/newplaylist/21b54efc2c9a8aa50febfab8/21b54efc2c9a8aa50febfab8.m3u8
+
+#EXTINF:-1 tvg-id="Reverse.S01E08" tvg-name="Reverse S01E08" tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/04/Reverse-2026-200x300.jpg" group-title="📺 Reverse : จิตไม่ลืมแค้น",S01E08 - The Revenge
+https://main.24playerhd.com/newplaylist/db7cad21fb1f242c2b453d92/db7cad21fb1f242c2b453d92.m3u8
+
